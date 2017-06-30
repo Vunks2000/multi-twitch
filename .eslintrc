@@ -1,0 +1,11 @@
+{
+      "extends": "airbnb",
+      "parser": "babel-eslint",
+      "globals": {
+        "Twitch": false
+      },
+     "plugins": [
+        "babel",
+        "react"
+     ]
+   }
